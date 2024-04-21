@@ -1,0 +1,41 @@
+.toolBar{
+    width: 100%;
+    height: 40px;
+    background: transparent linear-gradient(90deg, #18499a 0%, #343ebc 100%) 0% 0% no-repeat padding-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imageLogo{
+    width: 140px;
+    height: 40px;
+    background: url("/images/palms_bet_logo_glow.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.navBar{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    background: #29303c;
+}
+
+.link{
+    margin: 10px 10px;
+    cursor: pointer;
+    color: #e6f1ffb3;
+    font-size: 14px;
+    letter-spacing: 0.1px;
+}
+
+
+@media (max-width:768px){
+    .navBar{
+        display: none;
+    }
+}

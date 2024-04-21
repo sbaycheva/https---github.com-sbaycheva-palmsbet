@@ -1,0 +1,10 @@
+{
+    "sports": { "text": "sports", "link": "/sports", "icon": "SportsSoccer" },
+    "live": { "text": "live", "link": "/live", "icon": "menu-main-live" },
+    "casino": { "text": "casino", "link": "/casino", "icon": "cherry" },
+    "liveCasino": { "text": "live casino", "link": "/liveCasino", "icon": "Casino" },
+    "jackpot": { "text": "jackpot", "link": "/jackpot", "icon": "tournaments" },
+    "predictor": { "text": "predictor", "link": "/predictor", "icon": "Ballot" },
+    "wheel": { "text": "wheel", "link": "/wheel", "icon": "Attractions" },
+    "promotions": { "text": "promotions", "link": "/promotions", "icon": "gift" }
+}
